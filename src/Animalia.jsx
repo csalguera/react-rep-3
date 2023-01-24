@@ -7,6 +7,7 @@ import Reptiles from "./Reptiles"
 const Animalia = (props) => {
   return (
     <>
+      <h1>Animalia</h1>
     </>
   )
 }

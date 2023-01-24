@@ -1,6 +1,7 @@
 const Fungi = (props) => {
   return (
     <>
+      <h1>Fungi</h1>
     </>
   )
 }
