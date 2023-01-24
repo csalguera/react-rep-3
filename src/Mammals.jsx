@@ -1,6 +1,7 @@
 const Mammals = (props) => {
   return (
     <>
+      <h1>Mammals</h1>
     </>
   )
 }

@@ -8,6 +8,21 @@ const Animalia = (props) => {
   return (
     <>
       <h1>Animalia</h1>
+      <div>
+        <Amphibians />
+      </div>
+      <div>
+        <Birds />
+      </div>
+      <div>
+        <Fish />
+      </div>
+      <div>
+        <Mammals />
+      </div>
+      <div>
+        <Reptiles />
+      </div>
     </>
   )
 }
